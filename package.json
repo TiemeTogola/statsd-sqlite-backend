@@ -1,0 +1,22 @@
+{
+  "author": "Tieme Togola <tiemetof@hotmail.com>",
+  "description": "A StatsD backend that relays metrics to SQLite.",
+  "name": "statsd-sqlite-backend",
+  "version": "0.0.1",
+  "main": "lib/sqlite.js",
+  "dependencies": {
+    "sql.js": "*"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TiemeTogola/statsd-sqlite-backend.git"
+  },
+  "keywords": [
+    "statsd",
+    "sqlite"
+  ]
+}
