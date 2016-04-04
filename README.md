@@ -1,4 +1,4 @@
-A StatsD backend that relays metrics to SQLite.
+A [StatsD] (https://github.com/etsy/statsd) backend that relays metrics to [SQLite] (https://www.sqlite.org/).
 (work in progress...)
 
 Related:
