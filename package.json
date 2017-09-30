@@ -1,5 +1,5 @@
 {
-  "author": "Tieme Togola <tiemetof@hotmail.com>",
+  "author": "Tieme Togola <tftogola@gmail.com>",
   "description": "A StatsD backend that relays metrics to SQLite.",
   "name": "statsd-sqlite-backend",
   "version": "0.0.1",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TiemeTogola/statsd-sqlite-backend.git"
+    "url": "https://github.com/ttogola/statsd-sqlite-backend.git"
   },
   "keywords": [
     "statsd",
